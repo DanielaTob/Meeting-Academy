@@ -2,6 +2,13 @@
 
 Meeting Academy is a software development collective that manages online events such as workshops, masterclasses or webinars for developers, through our platform students can register for the event of their choice and view their profile. The administrator will manage the events, enter new events and highlight events.
 
+## Credentials
+
+* Admin: <br>
+user: diego1@gmail.com <br>
+password: 12345
+
+
 ## User view
 
 <img src="https://raw.githubusercontent.com/DanielaTob/img/main/login.png" alt="login" />
