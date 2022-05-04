@@ -1,3 +1,60 @@
+# MEETING ACADEMY
+
+Meeting Academy is a software development collective that manages online events such as workshops, masterclasses or webinars for developers, through our platform students can register for the event of their choice and view their profile. The administrator will manage the events, enter new events and highlight events.
+
+## User view
+
+<img src="https://raw.githubusercontent.com/DanielaTob/img/main/login.png" alt="login" />
+
+<img src="https://raw.githubusercontent.com/DanielaTob/img/main/register.png" alt="register" />
+
+<img src="https://raw.githubusercontent.com/DanielaTob/img/main/home%20user.png" alt="homeuser" />
+
+<img src="https://raw.githubusercontent.com/DanielaTob/img/main/profile%20user.png" alt="profileuser" />
+
+## Admin view
+
+<img src="https://raw.githubusercontent.com/DanielaTob/img/main/tabla%20eventos%20admin.png" alt="tableadmin" />
+
+<img src="https://raw.githubusercontent.com/DanielaTob/img/main/crear%20evento.png" alt="createevent" />
+
+<img src="https://raw.githubusercontent.com/DanielaTob/img/main/home%20admin.png" alt="homeadmin" />
+
+## How to clone the repository?
+
+* https://github.com/DanielaTob/Meeting-Academy
+* composer install
+* duplicate the file .env.example and rename it as .env
+* To create the data base
+* generate the key (php artisan key:generate)
+* php artisan migrate
+* php artisan migrate:fresh --seed
+
+## Deploy 💻
+
+http://meetingacademy.herokuapp.com/login
+
+## Build with 🛠️
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+
+## Developers 😺
+
+* **Daniela Tobar Moreno** [GitHub](https://github.com/DanielaTob)
+* **Diego Botello** [GitHub](https://github.com/diegoabt18)
+* **Ronald** [GitHub](https://github.com/Ronrook)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
